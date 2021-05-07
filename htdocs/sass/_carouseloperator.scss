@@ -237,11 +237,6 @@ article {
     }
 }
 
-@media only screen and (min-width: 850px) {
-    body {
-        padding: 0 80px;
-    }
-}
 /****************COL7**************/
 .namecarousel{
     margin-top: 1vw;
@@ -251,3 +246,11 @@ article {
 .namecarousel2{
     text-align: center;
 }
+.Operator h4{
+    text-align: center;
+    font-size: xx-large;
+    color: $darktaupe;
+    font-family: "Lobster", "cursive";
+
+ }
+   
