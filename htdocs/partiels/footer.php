@@ -38,6 +38,7 @@
                 <a href="https://www.instagram.com/"><img src="https://img.icons8.com/fluent-systems-regular/30/000000/instagram-new--v2.png"/></a>       
                 <a href="https://fr-fr.facebook.com/"><img src="https://img.icons8.com/ios/30/000000/facebook--v1.png"/></a>
                 <a href="https://blog.twitter.com/fr_fr.html"><img src="https://img.icons8.com/ios/30/000000/twitter--v2.png"/></a>
+                <a href="https://www.youtube.com/"><img src="https://img.icons8.com/ios-glyphs/35/000000/youtube--v1.png"/></a>
         </div>
         <p class="conf">Confidentialité Conditions générales ©2021 AirplaneTravel<br>
 Recherchez des vols pas chers sur AirplaneTravel, le comparateur de vols qui parcourt des centaines de sites de voyage.Trouvez des billets d’avion moins chers pour toutes les compagnies aériennes populaires et pour les itinéraires internationaux les plus prisés.Dénichez un billet pas cher pour un vol aller simple, aller-retour ou multi-destinations.
